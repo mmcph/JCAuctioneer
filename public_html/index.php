@@ -104,12 +104,12 @@
 						<li class="jumboInfo">New Mexico Museum of Natural History Foundation</li>
 						<li class="jumboInfo">The Robert O. Anderson UNM Foundation in Albuquerque</li>
 					</ul>
+					<p class="jumboInfo">Jill holds an MBA and has 30 years of corporate experience including serving on numerous nonprofit boards, giving her keen insight into successful nonprofit fundraising.  Jill is currently employed at Homewise, Inc, a nonprofit in Santa Fe and resides in Los Alamos with her family.</p>
 				</div>
 				<div class="col-md-6">
 					<img class="headshot" src="https://res.cloudinary.com/mmcphcloudinary/image/upload/v1532375607/JCAuctioneer/JCheadshot.jpg" alt="Jill Cook Headshot">
 				</div>
 			</div>
-			<p class="jumboInfo aboutP2">Jill holds an MBA and has 30 years of corporate experience including serving on numerous nonprofit boards, giving her keen insight into successful nonprofit fundraising.  Jill is currently employed at Homewise, Inc, a non profit in Santa Fe and resides in Los Alamos with her family.</p>
 		</div>
 
 		<div class="row">
