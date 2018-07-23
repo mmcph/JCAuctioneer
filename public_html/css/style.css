@@ -2,17 +2,19 @@ body {
 	/*todo media q bg img*/
 	background: #A5B4B4 url("https://res.cloudinary.com/mmcphcloudinary/image/upload/v1532375609/JCAuctioneer/JCbg.jpg") no-repeat top;
 	background-size: 100%;
+	background-position: 0px 50px;
 	font-family: 'Merriweather', serif;
 }
 
 /*NAVBAR*/
 
 .navbar {
-	background-color: rgba(89, 120, 117, .3);
+	background-color: rgb(144, 162, 161);
+	border-bottom: 3px solid rgb(88, 118, 116);
 }
 
 .navbar-brand {
-	font-size: 1.6em;
+	font-size: 2em;
 	font-weight: bold;
 }
 
@@ -39,13 +41,49 @@ body {
 	height: 130px;
 }
 
+.headerPushdown {
+	height: 85vh;
+}
+
 .headerContain {
 	background-color: rgba(89, 120, 117, .3);
 	padding: 20px;
+}
+
+.headerBox {
+	border: 3px solid rgb(88, 118, 116);
+	height: 75vh;
 }
 
 .headerTitle {
 	font-size: 2.2em;
 }
 
-.header
+.subtitle {
+	font-size: 1.2em;
+	margin-bottom: 20px;
+}
+
+.descr {
+	margin-bottom: 55px;
+}
+
+/*END HEADER*/
+
+/*JUMBOTRON*/
+
+.jumbotron {
+	background-color: rgb(144, 162, 161);
+	border-top: 3px solid rgb(88, 118, 116);
+	border-bottom: 3px solid rgb(88, 118, 116);
+
+}
+
+.headshot {
+	height: 100%;
+	border: 3px solid rgb(88, 118, 116);
+}
+
+.aboutP2 {
+	margin-top: 15px;
+}
