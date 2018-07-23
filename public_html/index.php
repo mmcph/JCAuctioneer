@@ -40,8 +40,11 @@
 	</head>
 
 	<body>
+
+<!--NAVBAR-->
+
 		<nav class="navbar navbar-expand-lg navbar-light fixed-top">
-			<a class="navbar-brand" href="#top"><i>Jill Cook - Auctioneer</i></a>
+			<a class="navbar-brand" href="#top">Jill Cook - Auctioneer</a>
 			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
 					  aria-expanded="false" aria-label="Toggle navigation">
 				<span class="navbar-toggler-icon"></span>
@@ -58,7 +61,29 @@
 				</ul>
 			</div>
 		</nav>
-<div class="test"></div>
+
+<!--END NAVBAR-->
+
+<!--CONTENT-->
+
+		<div class="spacer"></div>
+		<div class="container">
+			<div class="row no-gutters">
+				<div class="col-md-6 no-gutters"></div>
+				<div class="col-md-6 no-gutters">
+					<div class="container headerContain">
+						<h1 class="headerTitle">Fund Raising Solutions, LLC</h1>
+						<p class="headerInfo"><strong>Professional Auctioneering Services</strong></p>
+						<p class="headerInfo">Boost your fund raising power by adding competence, professionalism, energy and fun to your event.</p>
+						<div class="container headerContain">
+							<p class="headerInfo"><strong><i>"Thank you, thank you, thank you! Everyone says you are the very best auctioneer we have ever had. I told them you already confirmed you will be back for next year!"</i></strong></p>
+							<p class="headerInfo"><i>- Sherri L. Wells - Executive Director, New Mexico Museum of Natural History Foundation</i></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
 	</body>
 
 </html>
