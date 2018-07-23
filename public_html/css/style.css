@@ -1,0 +1,35 @@
+body {
+	/*todo media q bg img*/
+	background: url("https://res.cloudinary.com/mmcphcloudinary/image/upload/v1532375609/JCAuctioneer/JCbg.jpg") no-repeat top;
+	background-size: 100%;
+	font-family: 'Merriweather', serif;
+}
+
+.navbar {
+	background-color: rgba(89, 120, 117, .3);
+}
+
+.navbar-brand {
+	font-size: 1.6em;
+	text-shadow: 0 0 2px white;
+	font-weight: bold;
+}
+
+.nav-link {
+	font-size: 1.2em;
+	font-weight: bold;
+	margin-left: 30px;
+	transition: text-shadow .3s ease-in, color .3s ease-in;
+}
+
+.link2 {
+	margin-right: 15px;
+}
+
+.nav-link:hover {
+	text-shadow: 0 0 2px white;
+}
+
+.test {
+	height: 10000px;
+}
